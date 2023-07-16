@@ -13,5 +13,5 @@ function getMinMax(str) {
       }
     }
   }
-  return { min, max };
+  return {min, max};
 }
