@@ -1,5 +1,5 @@
 let calculator = {
-  read(a,b) {
+  read(a, b) {
     this['a'] = a;
     this['b'] = b;
   },
